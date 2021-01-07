@@ -28,4 +28,9 @@ TSLint
 
 ```
 yarn add tsc-watch --dev
+yarn add crypto-js
+```
+
+```
+
 ```
